@@ -20,16 +20,17 @@ organizations:
   url: "https://www.uber.com/us/en/atg/research-and-development/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning and robotics
+bio: Just being curious
 
 interests:
-- Artificial Intelligence
+- Robotics
+- Machine Learning
 
 education:
   courses:
   - course: MSc in Computer Science 
     institution: University of Toronto
-    year: 2019
+    year: 2020
   - course: Bachelor of Computer Science
     institution: University of Waterloo
     year: 2018
@@ -70,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Just being curious
+Simon is a Research Scientist at Uber ATG R&D and a graduate student at the University of Toronto, supervised by Professor Raquel Urtasun. His research interest mainly lies in machine learning and robotics. At ATG R&D, he aims to use understanding of interactive scenarios to improve planning and simulation. Before joining the University of Toronto, Simon studied computer science at the University of Waterloo.

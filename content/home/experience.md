@@ -34,9 +34,7 @@ date_format = "Jan 2006"
   location = "Menlo Park, CA"
   date_start = "2018-01-01"
   date_end = "2018-04-30"
-  description = """
-  Feed integrity team
-  """
+  description = """Feed integrity team"""
 
 [[experience]]
   title = "Research Intern"
