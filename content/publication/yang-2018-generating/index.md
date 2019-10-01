@@ -12,6 +12,6 @@ url_pdf: "https://www.ijcai.org/proceedings/2018/0631.pdf"
 url_code: "https://github.com/Disiok/poetry-seq2seq"
 image:
     placement: 1
-    preview_only: true
+    preview_only: false
 ---
 

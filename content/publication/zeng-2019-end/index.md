@@ -11,6 +11,6 @@ publication_short: "CVPR 2019 (<font color='red'>**Oral**</font>)"
 url_pdf: "http://openaccess.thecvf.com/content_CVPR_2019/papers/Zeng_End-To-End_Interpretable_Neural_Motion_Planner_CVPR_2019_paper.pdf"
 image:
     placement: 1
-    preview_only: true
+    preview_only: false
 ---
 

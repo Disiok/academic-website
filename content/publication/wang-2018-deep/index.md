@@ -11,6 +11,6 @@ publication_short: "CVPR 2018 (<font color='red'>**Spotlight**</font>)"
 url_pdf: "http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Deep_Parametric_Continuous_CVPR_2018_paper.pdf" 
 image:
     placement: 1
-    preview_only: true
+    preview_only: false
 ---
 
