@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master's Student/Research Scientist
+role: PhD Student/Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -71,4 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Simon is a Research Scientist at Uber ATG R&D and a graduate student at the University of Toronto, supervised by Professor Raquel Urtasun. His research interest mainly lies in machine learning and robotics. At ATG R&D, he aims to use understanding of interactive scenarios to improve planning and simulation. Before joining the University of Toronto, Simon studied computer science at the University of Waterloo.
+Simon is a Research Scientist at Uber ATG R&D and a PhD student at the University of Toronto, supervised by Professor Raquel Urtasun. His research interest mainly lies in machine learning and robotics. 
+
+At Uber ATG R&D, he aims to use understanding of interactive scenarios to improve planning and simulation. Before joining the University of Toronto, Simon studied computer science at the University of Waterloo.
