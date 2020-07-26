@@ -13,6 +13,6 @@ Last but not least, we demonstrate that our motion forecasts result in safer and
 featured: false
 publication: ""
 publication_short: "ECCV 2020"
-url_pdf: ""
+url_pdf: "https://arxiv.org/pdf/2007.12036.pdf"
 ---
 
