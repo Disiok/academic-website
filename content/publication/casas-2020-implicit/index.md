@@ -14,5 +14,7 @@ featured: false
 publication: ""
 publication_short: "ECCV 2020"
 url_pdf: "https://arxiv.org/pdf/2007.12036.pdf"
+url_video_long: "https://youtu.be/9V20N3A1YDw"
+url_video_short: "https://youtu.be/r08JezS9lto"
 ---
 
