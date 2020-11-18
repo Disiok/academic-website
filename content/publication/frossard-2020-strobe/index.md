@@ -56,4 +56,5 @@ the performance in the traditional setting.'
 publication: ''
 publication_short: 'CORL 2020'
 url_pdf: 'https://arxiv.org/pdf/2011.06425.pdf'
+url_video_long: 'https://youtu.be/Gy97AnWdGn8'
 ---
